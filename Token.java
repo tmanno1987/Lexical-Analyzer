@@ -1,8 +1,5 @@
 package Lex;
 
-import java.util.*;
-import java.io.*;
-
 public class Token
 {
    private String tok;
